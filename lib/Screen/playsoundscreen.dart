@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
-import '../../globals.dart';
+import '../globals.dart';
 
 typedef OnError = void Function(Exception exception);
 
